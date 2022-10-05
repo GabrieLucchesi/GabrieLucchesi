@@ -1,4 +1,5 @@
-### Hi there, this is my profile ...
+### Um pouco sobre mim
+Me chamo Gabriel, 20 anos, e sempre tive curiosidade sobre a forma como as coisas funcionam. Essa curiosidade me moldou como a pessoa que sou hoje, tornando-me muito interessado em ser desafiado por problemas e os solucionar. Tenho especial interesse em otimização de processos, para torna-los o mais eficientes possível. Atualmente despertou-me grande interesse em Grafos, após perceber as inúmeras áreas em que podem ser aplicados. Não vejo a hora de por isso em prática profissionalmente.
 
 ##
 
